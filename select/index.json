@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "風",
+  "base_artist": "Younha",
+  "createdAt": "2025-12-29T14:05:50.454302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "多分、風。 Originally Performed By サカナクション (オルゴール)",
+      "artist": "Orgel Sound J-Pop",
+      "has_synced": false,
+      "path": "select/01_多分、風。_Originally_Performed_By_サカナクション_(オルゴール)_Orgel_Sound_J-Pop.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "多分、風。",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_多分、風。_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "多分、風。",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_多分、風。_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風~The wind knows how I feel~",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_風~The_wind_knows_how_I_feel~_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/05_風_山猿.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風、花",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/06_風、花_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風、花",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/07_風、花_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/08_風_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tabun, Kaze. [多分、風。]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/09_Tabun,_Kaze._[多分、風。]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/10_風_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/11_風_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "Yamazaru",
+      "has_synced": true,
+      "path": "select/12_風_Yamazaru.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/13_風_Younha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "吉田 美奈子",
+      "has_synced": false,
+      "path": "select/14_風_吉田_美奈子.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "風",
+      "artist": "Minako Yoshida",
+      "has_synced": false,
+      "path": "select/15_風_Minako_Yoshida.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "風〜旅立ちの詩〜",
+      "artist": "JAM Project",
+      "has_synced": true,
+      "path": "select/16_風〜旅立ちの詩〜_JAM_Project.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "風 ～旅立ちの詩～",
+      "artist": "JAM Project",
+      "has_synced": true,
+      "path": "select/17_風_~旅立ちの詩~_JAM_Project.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "風 〜旅立ちの詩〜",
+      "artist": "JAM Project",
+      "has_synced": true,
+      "path": "select/18_風_〜旅立ちの詩〜_JAM_Project.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風",
+      "artist": "ユンナ",
+      "has_synced": false,
+      "path": "select/pl_01_風_ユンナ.txt"
+    }
+  ]
+}
